@@ -186,10 +186,6 @@ input[type=number] {
     overflow-x: auto;
 }
 
-.expense-title-input:active{
-    border:none;
-}
-
 .budget-dashboard #all ul.list li{
     position: relative;
     font-size: 1em;
@@ -271,7 +267,7 @@ input[type=number] {
     font-size: 1.2em;
     font-family: 'Gilroy';
     margin: 5px;
-    margin-left: -10px;
+    margin-left: -5px;
     border-radius: 0 10px 10px 0;
     border: none;
 }
@@ -374,7 +370,7 @@ input[type=number] {
     font-size: 1.2em;
     font-family: 'Gilroy';
     margin: 5px;
-    margin-left: -10px;
+    margin-left: -5px;
     border-radius: 0 10px 10px 0;
     border: none;
 }
