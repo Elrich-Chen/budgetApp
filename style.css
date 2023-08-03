@@ -267,7 +267,6 @@ input[type=number] {
     font-size: 1.2em;
     font-family: 'Gilroy';
     margin: 5px;
-    margin-left: -5px;
     border-radius: 0 10px 10px 0;
     border: none;
 }
@@ -370,7 +369,6 @@ input[type=number] {
     font-size: 1.2em;
     font-family: 'Gilroy';
     margin: 5px;
-    margin-left: -5px;
     border-radius: 0 10px 10px 0;
     border: none;
 }
